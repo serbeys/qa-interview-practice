@@ -1,0 +1,16 @@
+User stories: 
+====================================
+01. As a user I want to select timer, alarm or stopwatch
+02. As a user I want to start stopwatch 
+03. As a user I want to see how many time passed since stopwatch was started 
+04. As a user I want to pause started stopwatch
+05. As a user I want to start again (continue) paused stopwatch
+06. As a user I want to reset last stopwatch 
+07. As a user I want to use stopwatch in background (even the app is closed)
+08. As a user I want to set alarm
+09. As a user I want to disable or enable alarm
+10. As a user I want to configure sounds (on/off) in the app
+11. As a user I want to dismiss alarm 
+12. As a user I want to set timer for any duration
+13. As a user I want to start timer, pause it or restart
+14. As a user I want to hear sound for finished timers
