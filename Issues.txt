@@ -1,0 +1,11 @@
+1. Stowatch menu item does not have wave effect
+2. Type in word "Sounds"
+3. Type in word "Minutes"
+4. Two green lines in alart time select
+5. Alarm starts a minute later than it's configured
+6. Timer works slower than it's expected
+7. Colors in header are wrong
+8. Pause button is not "center" alligned
+9. In Timer user cannot select more than 100 minutes
+10. User can set minutes less than 0 in timer
+11 There is an message "This issue is only in Firefox"   
