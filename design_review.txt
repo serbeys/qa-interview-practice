@@ -1,0 +1,20 @@
+Super admin - login
+====================
+- There is no error state for invalid login/password
+- There is no close button in "forgot password" dialog (Not obvious for user)
+
+Super admin - dashboard
+====================
+- There is no wireframe for search field is filled state
+- Number of items for "Show ... entries" combobox
+- Column is sorted state - is it different form initial state of main table?
+- Column with Arrow down icon (the last one) - how it works?
+- Maximum number of pages in paging component?
+
+Super admin - new/existing client
+====================
+- New client button is still visible when new client screen is opened?
+- Validation staes for all fields, their types.
+- Which fields a required and how should we display this?
+- Inconsistense: button are in top for new client and are in bottom for existing client. 
+- Approve saving/archieving dialog?
